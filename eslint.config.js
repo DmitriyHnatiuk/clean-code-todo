@@ -19,6 +19,7 @@ module.exports = [
     },
     rules: {
       'no-unused-vars': 'error',
+      'no-var': 'error',
       'prefer-const': 'error',
       'no-console': 'error',
       'prettier/prettier': 'error',
